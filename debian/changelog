@@ -1,4 +1,4 @@
-ath11k-fwtest(1.0.0-1) UNRELEASED; urgency=medium
+ath11k-fwtest (1.0.0-1) UNRELEASED; urgency=medium
 
   * Update upstream source to wlan-service.qclinux.0.0/260630.1/prebuilt_resolute/ath11k-fwtest_1.0.0_arm64.tar.gz
 
