@@ -1,5 +1,5 @@
 ath11k-fwtest (1.0.0-1) UNRELEASED; urgency=medium
 
-  * Update upstream source to wlan-service.qclinux.0.0/260630.1/prebuilt_resolute/ath11k-fwtest_1.0.0_arm64.tar.gz
+  * Updated upstream source to wlan-service.qclinux.0.0/260630.1/prebuilt_resolute/ath11k-fwtest_1.0.0_arm64.tar.gz
 
  -- Jing Feng <jinfen@qti.qualcomm.com>  Tue, 08 Sep 2026 00:00:00 +0000
