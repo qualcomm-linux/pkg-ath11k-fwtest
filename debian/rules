@@ -17,7 +17,7 @@ override_dh_auto_clean:
 override_dh_auto_install:
 	# -------- wlanftm --------
 	mkdir -p debian/ath11k-fwtest/usr/sbin
-	cp -a data/ath11k-fwtest/arm64/usr/sbin/* debian/ath11k-fwtest/usr/sbin/
+	cp -a ath11k-fwtest/arm64/usr/sbin/* debian/ath11k-fwtest/usr/sbin/
 
 override_dh_install:
 	:
